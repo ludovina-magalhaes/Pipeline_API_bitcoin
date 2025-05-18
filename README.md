@@ -105,6 +105,21 @@ python script.py
 
 ---
 
+##  Visualización en el Dashboard
+
+El dashboard fue desarrollado con **Streamlit** y permite visualizar:
+
+- El **precio actual** del Bitcoin.
+- Un **gráfico de línea** con la evolución del precio a lo largo del tiempo.
+- Informaciones adicionales como fecha y moneda de referencia.
+
+ **El dashboard:**
+
+![image](https://github.com/user-attachments/assets/658d7cc2-84f8-406e-9d2a-416387f1487a)
+._
+
+---
+
 ##  Notas
 
 - Verifique que la **API de Coinbase** esté accesible.  
@@ -112,14 +127,6 @@ python script.py
 - Asegúrese de configurar correctamente las variables de entorno en el archivo `.env`.
 
 ---
-
-##  Contribuciones
-
-¡Las contribuciones son bienvenidas!  
-Puede abrir un *issue* con sugerencias o enviar un *pull request* con mejoras.
-
----
-
 ##  Licencia
 
 Este proyecto está licenciado bajo la **Licencia MIT**.  
