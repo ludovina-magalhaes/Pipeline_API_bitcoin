@@ -20,7 +20,6 @@ Este proyecto implementa un **pipeline ETL (Extracción, Transformación y Carga
 
 1. **Extracción (Extract)**  
    - Los datos se obtienen desde la **API de Coinbase** utilizando la biblioteca `requests`.  
-   - También se incluye un ejemplo de extracción desde la **API de la NASA**.
 
 2. **Transformación (Transform)**  
    - Los datos JSON se procesan directamente con Python.  
