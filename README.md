@@ -39,7 +39,8 @@ Este proyecto implementa un **pipeline ETL (Extracción, Transformación y Carga
 5. **Dashboard**  
    - Los datos almacenados se visualizan con **Streamlit** directamente desde PostgreSQL.  
    - El dashboard muestra el **precio actual** y la **evolución histórica** del Bitcoin.
-![image](https://github.com/user-attachments/assets/dc6350f0-bff8-48a0-b091-3b344a4d07b3)
+![image](https://github.com/user-attachments/assets/e7c4ad09-e156-46eb-a9e1-aa1ac6233444)
+
 
 ---
 
